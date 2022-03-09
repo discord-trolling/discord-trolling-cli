@@ -6,7 +6,12 @@ A CLI for working with discord-trolling apps
 
 ## Plugin Management
 
-You can easily work with plugins in discord-trolling by adding a file into the plugins directory
+You can install a plugin via the marketplace
+
+- `npx discord-trolling-cli install plugin`
+- That's it!
+
+You can also easily work with plugins in discord-trolling by adding a file into the plugins directory
 
 - `npx discord-trolling-cli`
 - Plugins > Add plugin

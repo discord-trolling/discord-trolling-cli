@@ -1,6 +1,6 @@
 {
   "name": "discord-trolling-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A CLI for working with discord-trolling apps",
   "main": "index.js",
   "scripts": {
