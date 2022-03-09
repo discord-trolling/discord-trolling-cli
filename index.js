@@ -46,7 +46,7 @@ figlet("discord-trolling", (err, result) => {
 
     axios
       .get(
-        `https://cdn.jsdelivr.net/gh/discord-trolling/plugins/plugins/${process.argv[3]}.js`,
+        `https://raw.githubusercontent.com/discord-trolling/plugins/main/plugins/${process.argv[3]}.js`,
         {
           responseType: "stream",
         }
