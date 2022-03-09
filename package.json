@@ -1,14 +1,16 @@
 {
   "name": "discord-trolling-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A CLI for working with discord-trolling apps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "axios": "^0.26.0",
     "figlet": "",
-    "inquirer": ""
+    "inquirer": "",
+    "multispinner": "^0.2.1"
   },
   "keywords": [],
   "author": "",
